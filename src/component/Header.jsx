@@ -52,7 +52,7 @@ const Hero = () => {
               <FaLinkedin />
             </a>
             <a
-              href="https://www.instagram.com"
+              href="https://www.instagram.com/merli_dawit?igshid=MmIzYWVlNDQ5Yg%3D%3D"
               target="_blank"
               rel="noopener noreferrer"
               className="text-white hover:text-gray-300 text-xl sm:text-2xl"
@@ -60,7 +60,7 @@ const Hero = () => {
               <FaInstagram />
             </a>
             <a
-              href="https://www.tiktok.com"
+              href="https://www.tiktok.com/@melatdawit1?_r=1"
               target="_blank"
               rel="noopener noreferrer"
               className="text-white hover:text-gray-300 text-xl sm:text-2xl"

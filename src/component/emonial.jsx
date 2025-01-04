@@ -57,7 +57,7 @@ export default function TestimonialSlider() {
                 key={index}
                 className="w-full flex-shrink-0 px-8 text-center"
               >
-                <p className="text-white text-xl mb-8">
+                <p className="text-white text-md mb-8">
                   {testimonial.text}
                 </p>
                 <div className="flex items-center justify-center gap-4 ">
