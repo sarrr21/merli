@@ -66,7 +66,7 @@ export default function TestimonialSlider() {
                     alt={`${testimonial.name}'s profile`}
                     className="w-12 h-12 rounded-full "
                   />
-                  <span className="text-yellow-500 font-semibold">
+                  <span className="text-[#964450] font-semibold">
                     {testimonial.name}
                   </span>
                 </div>
